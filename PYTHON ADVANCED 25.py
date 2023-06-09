@@ -30,4 +30,4 @@ it is statiscal analysis used in finalcial analysis  and forecasting.To calculat
 
 
 # Ques 7
-pov: iam not able to understand the question. 
+the concept of "indirect" importing is not an official term or a specific programming feature but rather a way to describe the process of importing one module through another module using the dot notation. The actual terminology and implementation may vary depending on the programming language you are using.
